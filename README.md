@@ -24,7 +24,6 @@ Depois de criada a lista:
 O resultado final desse desafio:
 
 <p align="center">
-  <img alt="preview1" src=".file/aprovado.png" width="100%">
-  <img alt="preview2" src=".file/reprovado.png" width="100%">
+  <img alt="preview1" src="./files/image.gif" width="100%">
 </p>
 
